@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning java and will start python 
 - 💞️ I’m looking to collaborate on projects to help a beginner learn to code better
-- 📫 How to reach me through my student email 23283715@student.uwa.edu.au
+- 📫 You can reach me through my student email 23283715@student.uwa.edu.au
 
 <!---
 AB0209/AB0209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
